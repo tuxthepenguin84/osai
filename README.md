@@ -90,6 +90,7 @@ The goal of this project is to build a curated list of open source AI projects. 
 
 ### <a id="frontends"></a>Frontends & UIs
 * [open-webui/open-webui](https://github.com/open-webui/open-webui) - Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs.
+* [1runeberg/confichat](https://github.com/1runeberg/confichat) - Lightweight, standalone, multi-platform, and privacy focused local LLM chat interface with optional encryption
 
 ### <a id="imagegeneration"></a>Image Generation (diffusion)
 
@@ -101,6 +102,8 @@ Invoke is a leading creative engine for Stable Diffusion models, empowering prof
 ### <a id="mobile"></a>Mobile
 
 * [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+* [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
+* [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 
 
 ### <a id="rag"></a>RAG (retrieval-augemented generation)
