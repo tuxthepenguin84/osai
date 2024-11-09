@@ -50,10 +50,12 @@ The goal of this project is to build a curated list of open source AI projects. 
     <li>
       <a href="#categories">Categories</a>
       <ul>
+        <li><a href="#db">Database</a></li>
         <li><a href="#facerecognition">Face Recognition</a></li>
         <li><a href="#frameworks">Frameworks</a></li>
         <li><a href="#frontend">Frontends & UIs</a></li>
         <li><a href="#imagegeneration">Image Generation (diffusion)</a></li>
+        <li><a href="#mobile">Mobile</a></li>
         <li><a href="#rag">RAG (retrieval-augemented generation)</a></li>
         <li><a href="#search">Search</a></li>
         <li><a href="#security">Security</a></li>
@@ -71,6 +73,10 @@ The goal of this project is to build a curated list of open source AI projects. 
 
 <!-- CATEGORIES -->
 ## Categories
+
+### <a id="db"></a>Database
+
+* [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 
 ### <a id="facerecognition"></a>Face Recognition
 
@@ -91,6 +97,11 @@ The goal of this project is to build a curated list of open source AI projects. 
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - About
 Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A web interface for Stable Diffusion
+
+### <a id="mobile"></a>Mobile
+
+* [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+
 
 ### <a id="rag"></a>RAG (retrieval-augemented generation)
 
