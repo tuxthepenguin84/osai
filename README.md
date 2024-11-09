@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -35,7 +34,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The goal of this project is to become the largest collection of open source AI projects. Partially inspired by [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg).
+The goal of this project is to build a curated list of open source AI projects. <br />
+<br />
+· Partially inspired by [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,8 +50,14 @@ The goal of this project is to become the largest collection of open source AI p
     <li>
       <a href="#categories">Categories</a>
       <ul>
-        <li><a href="#category1">Category 1</a></li>
-        <li><a href="#category2">Category 2</a></li>
+        <li><a href="#facerecognition">Face Recognition</a></li>
+        <li><a href="#frameworks">Frameworks</a></li>
+        <li><a href="#frontend">Frontends & UIs</a></li>
+        <li><a href="#imagegeneration">Image Generation (diffusion)</a></li>
+        <li><a href="#rag">RAG (retrieval-augemented generation)</a></li>
+        <li><a href="#search">Search</a></li>
+        <li><a href="#security">Security</a></li>
+        <li><a href="#textgeneration">Text Generation (transformers)</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
@@ -65,9 +72,43 @@ The goal of this project is to become the largest collection of open source AI p
 <!-- CATEGORIES -->
 ## Categories
 
-### Category 1
+### <a id="facerecognition"></a>Face Recognition
 
-### Category 2
+* [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
+
+* [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
+
+### <a id="frameworks"></a>Frameworks
+* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open source platform for machine learning
+
+### <a id="frontends"></a>Frontends & UIs
+* [open-webui/open-webui](https://github.com/open-webui/open-webui) - Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs.
+
+### <a id="imagegeneration"></a>Image Generation (diffusion)
+
+* [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+* [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - About
+Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A web interface for Stable Diffusion
+
+### <a id="rag"></a>RAG (retrieval-augemented generation)
+
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+
+### <a id="search"></a>Search
+
+* [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+
+### <a id="security"></a>Security
+
+* [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+
+### <a id="textgeneration"></a>Text Generation (transformers)
+
+* [mudler/LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative
+* [ollama/ollama](https://github.com/ollama/ollama)
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
