@@ -105,6 +105,7 @@ The goal of this project is to build a curated list of open source AI projects. 
 
 ### <a id="rag"></a>RAG (retrieval-augemented generation)
 * [Anything-LLM](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+* [kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 
 ### <a id="search"></a>Search
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
