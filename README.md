@@ -91,6 +91,7 @@ The goal of this project is to build a curated list of open source AI projects. 
 
 ### <a id="frontends"></a>Frontends & UIs
 * [Open-WebUI](https://github.com/open-webui/open-webui) - Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs.
+* [Lobe-Chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 * [ConfiChat](https://github.com/1runeberg/confichat) - Lightweight, standalone, multi-platform, and privacy focused local LLM chat interface with optional encryption
 
 ### <a id="imagegeneration"></a>Image Generation (diffusion)
