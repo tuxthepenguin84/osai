@@ -50,6 +50,7 @@ The goal of this project is to build a curated list of open source AI projects. 
     <li>
       <a href="#categories">Categories</a>
       <ul>
+        <li><a href="#agentsresearch">Agents/Research</a></li>
         <li><a href="#appbuilders">Application Builders</a></li>
         <li><a href="#dbs">Databases</a></li>
         <li><a href="#facerecognition">Face Recognition</a></li>
@@ -74,6 +75,9 @@ The goal of this project is to build a curated list of open source AI projects. 
 
 <!-- CATEGORIES -->
 ## Categories
+
+### <a id="agentsresearch"></a>Agents/Research
+* [khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral).
 
 ### <a id="appbuilders"></a>Application Builders
 * [Langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
@@ -110,6 +114,7 @@ The goal of this project is to build a curated list of open source AI projects. 
 
 ### <a id="search"></a>Search
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+* [miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 
 ### <a id="security"></a>Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
