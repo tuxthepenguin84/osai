@@ -77,6 +77,7 @@ The goal of this project is to build a curated list of open source AI projects. 
 ## Categories
 
 ### <a id="agentsresearch"></a>Agents/Research
+* [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents.
 * [khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral).
 
 ### <a id="appbuilders"></a>Application Builders
