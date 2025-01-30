@@ -62,6 +62,7 @@ The goal of this project is to build a curated list of open source AI projects. 
         <li><a href="#search">Search</a></li>
         <li><a href="#security">Security</a></li>
         <li><a href="#textgeneration">Text Generation (transformers)</a></li>
+        <li><a href="#tokenization">Tokenization</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
@@ -85,23 +86,23 @@ The goal of this project is to build a curated list of open source AI projects. 
 * [Langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 
 ### <a id="dbs"></a>Database
-* [mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
+* [mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise datal
 
 ### <a id="facerecognition"></a>Face Recognition
-* [deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-* [CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
+* [deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python.
+* [CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system.
 
 ### <a id="frameworks"></a>Frameworks
-* [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open source platform for machine learning
-* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open source platform for machine learning.
+* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 
 ### <a id="frontends"></a>Frontends & UIs
 * [Open-WebUI](https://github.com/open-webui/open-webui) - Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs.
 * [Lobe-Chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
-* [ConfiChat](https://github.com/1runeberg/confichat) - Lightweight, standalone, multi-platform, and privacy focused local LLM chat interface with optional encryption
+* [ConfiChat](https://github.com/1runeberg/confichat) - Lightweight, standalone, multi-platform, and privacy focused local LLM chat interface with optional encryption.
 
 ### <a id="imagegeneration"></a>Image Generation (diffusion)
-* [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A web interface for Stable Diffusion
+* [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A web interface for Stable Diffusion.
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 * [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - About Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
@@ -109,23 +110,26 @@ The goal of this project is to build a curated list of open source AI projects. 
 ### <a id="mobile"></a>Mobile
 * [Enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 * [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
-* [ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
+* [ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama.
 
 ### <a id="rag"></a>RAG (retrieval-augemented generation)
 * [Anything-LLM](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 * [kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 
 ### <a id="search"></a>Search
-* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI.
 * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 
 ### <a id="security"></a>Security
-* [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+* [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool.
 
 ### <a id="textgeneration"></a>Text Generation (transformers)
-* [Ollama](https://github.com/ollama/ollama)
-* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models
-* [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative
+* [Ollama](https://github.com/ollama/ollama) - Ollama is a lightweight, user-friendly tool designed to run large language models directly on your computer.
+* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+* [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative.
+
+### <a id="tokenization"></a>Tokenization
+* [repomix](https://github.com/yamadashy/repomix) - Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
