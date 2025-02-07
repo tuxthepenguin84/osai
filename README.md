@@ -51,7 +51,9 @@ The goal of this project is to build a curated list of open source AI projects. 
       <a href="#categories">Categories</a>
       <ul>
         <li><a href="#agentsresearch">Agents/Research</a></li>
-        <li><a href="#appbuilders">Application Builders</a></li>
+        <li><a href="#appbuilders">Application Builder/Developer</a></li>
+        <li><a href="#cli">CLI</a></li>
+        <li><a href="#clustering">Clustering</a></li>
         <li><a href="#dbs">Databases</a></li>
         <li><a href="#facerecognition">Face Recognition</a></li>
         <li><a href="#frameworks">Frameworks</a></li>
@@ -63,6 +65,7 @@ The goal of this project is to build a curated list of open source AI projects. 
         <li><a href="#security">Security</a></li>
         <li><a href="#textgeneration">Text Generation (transformers)</a></li>
         <li><a href="#tokenization">Tokenization</a></li>
+        <li><a href="#web-crawl-scrape">Web Crawling/Scraping</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
@@ -81,9 +84,17 @@ The goal of this project is to build a curated list of open source AI projects. 
 * [khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral).
 * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents.
 * [pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs.
+* [deep-research](https://github.com/dzhng/deep-research) - Open source implementation of OpenAI's new Deep Research agent.
 
-### <a id="appbuilders"></a>Application Builders
+### <a id="appbuilders"></a>Application Builder/Developer
 * [Langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+* [mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
+
+### <a id="cli"></a>CLI
+* [aider](https://github.com/Aider-AI/aider) - Aider is AI pair programming in your terminal
+
+### <a id="clustering"></a>Clustering
+* [exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices
 
 ### <a id="dbs"></a>Database
 * [mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise datal
@@ -99,6 +110,8 @@ The goal of this project is to build a curated list of open source AI projects. 
 ### <a id="frontends"></a>Frontends & UIs
 * [Open-WebUI](https://github.com/open-webui/open-webui) - Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs.
 * [Lobe-Chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+* [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative.
 * [ConfiChat](https://github.com/1runeberg/confichat) - Lightweight, standalone, multi-platform, and privacy focused local LLM chat interface with optional encryption.
 
 ### <a id="imagegeneration"></a>Image Generation (diffusion)
@@ -125,11 +138,14 @@ The goal of this project is to build a curated list of open source AI projects. 
 
 ### <a id="textgeneration"></a>Text Generation (transformers)
 * [Ollama](https://github.com/ollama/ollama) - Ollama is a lightweight, user-friendly tool designed to run large language models directly on your computer.
-* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
-* [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative.
 
 ### <a id="tokenization"></a>Tokenization
 * [repomix](https://github.com/yamadashy/repomix) - Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file.
+
+### <a id="web-crawl-scrape"></a>Web Crawling/Scraping
+* [crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper
+* [firecrawl](https://github.com/mendableai/firecrawl) - Turn entire websites into LLM-ready markdown or structured data
+* [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
