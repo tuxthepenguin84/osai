@@ -85,6 +85,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 * [khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral).
 * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents.
 * [pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs.
+* [midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
 
 ### App Builder
 * [langchain](https://github.com/langchain-ai/langchain) - Build context-aware reasoning applications.
