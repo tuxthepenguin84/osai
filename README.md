@@ -60,12 +60,12 @@ The goal of this project is to build a curated list of awesome open source AI pr
         <li><a href="#frameworks">Frameworks</a></li>
         <li><a href="#frontends-uis">Frontends UIs</a></li>
         <li><a href="#image-generation">Image Generation</a></li>
+        <li><a href="#local-model-hosting">Local Model Hosting</a></li>
         <li><a href="#mobile">Mobile</a></li>
         <li><a href="#pre-processing">Pre-Processing</a></li>
         <li><a href="#rag">RAG</a></li>
         <li><a href="#search">Search</a></li>
         <li><a href="#security">Security</a></li>
-        <li><a href="#text-generation">Text Generation</a></li>
         <li><a href="#web-crawling-scraping">Web Crawling Scraping</a></li>
       </ul>
     </li>
@@ -126,6 +126,9 @@ The goal of this project is to build a curated list of awesome open source AI pr
 * [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - About Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
 
+### Local Model Hosting
+* [Ollama](https://github.com/ollama/ollama) - Ollama is a lightweight, user-friendly tool designed to run large language models directly on your computer.
+
 ### Mobile
 * [Enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 * [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
@@ -145,9 +148,6 @@ The goal of this project is to build a curated list of awesome open source AI pr
 
 ### Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool.
-
-### Text Generation
-* [Ollama](https://github.com/ollama/ollama) - Ollama is a lightweight, user-friendly tool designed to run large language models directly on your computer.
 
 ### Web Crawling Scraping
 * [crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper
