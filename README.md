@@ -152,9 +152,10 @@ The goal of this project is to build a curated list of awesome open source AI pr
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool.
 
 ### Web Crawling Scraping
-* [crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper
-* [firecrawl](https://github.com/mendableai/firecrawl) - Turn entire websites into LLM-ready markdown or structured data
-* [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
+* [crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper.
+* [firecrawl](https://github.com/mendableai/firecrawl) - Turn entire websites into LLM-ready markdown or structured data.
+* [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL.
+* [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
