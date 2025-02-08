@@ -88,16 +88,17 @@ The goal of this project is to build a curated list of open source AI projects. 
 
 ### App Builder
 * [Langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-* [mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
+* [mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python.
 
 ### CLI
-* [aider](https://github.com/Aider-AI/aider) - Aider is AI pair programming in your terminal
+* [aider](https://github.com/Aider-AI/aider) - Aider is AI pair programming in your terminal.
+* [tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama.
 
 ### Clustering
-* [exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices
+* [exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices.
 
 ### Databases
-* [mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise datal
+* [mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data.
 
 ### Deep Research
 * [deep-research](https://github.com/dzhng/deep-research) - Open source implementation of OpenAI's new Deep Research agent.
