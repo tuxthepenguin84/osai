@@ -87,8 +87,10 @@ The goal of this project is to build a curated list of awesome open source AI pr
 * [pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs.
 
 ### App Builder
+* [langchain](https://github.com/langchain-ai/langchain) - Build context-aware reasoning applications.
 * [dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 * [Langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+* [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 * [mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python.
 
 ### CLI
