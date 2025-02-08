@@ -116,6 +116,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 * [Lobe-Chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 * [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative.
+* [chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs.
 * [ConfiChat](https://github.com/1runeberg/confichat) - Lightweight, standalone, multi-platform, and privacy focused local LLM chat interface with optional encryption.
 
 ### Image Generation
