@@ -18,7 +18,7 @@
 <h3 align="center">Open Source AI</h3>
 
   <p align="center">
-    A Collection of Awesome Open Source AI Projects
+    A Curated List of Awesome Open Source AI Projects
     <br />
     <a href="https://github.com/tuxthepenguin84/osai"><strong>Explore the docs »</strong></a>
     <br />
@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The goal of this project is to build a curated list of awesome open source AI projects. <br />
+The goal of this project is to build a curated list of awesome open source AI projects. Lists are sorted below by Stars.<br />
 <br />
 · Partially inspired by [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg).
 
