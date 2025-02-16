@@ -149,7 +149,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 
 ### Search
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI.
-* [miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
+* [scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet.
 
 ### Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool.
