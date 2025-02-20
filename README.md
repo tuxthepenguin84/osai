@@ -106,6 +106,8 @@ The goal of this project is to build a curated list of awesome open source AI pr
 * [mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data.
 
 ### Deep Research
+* [storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+* [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 * [deep-research](https://github.com/dzhng/deep-research) - Open source implementation of OpenAI's new Deep Research agent.
 
 ### Face Recognition
