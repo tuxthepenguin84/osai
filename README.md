@@ -82,6 +82,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 ## Categories
 
 ### Agents
+* [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming.
 * [khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral).
 * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents.
 * [pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs.
