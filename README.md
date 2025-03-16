@@ -83,6 +83,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 - [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents.
 - [pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs.
 - [midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
+- [RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 
 ### App Builder
 
