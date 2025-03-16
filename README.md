@@ -111,6 +111,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 - [storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [deep-research](https://github.com/dzhng/deep-research) - Open source implementation of OpenAI's new Deep Research agent.
+- [ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant.
 
 ### Face Recognition
 
