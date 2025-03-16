@@ -137,6 +137,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 - [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A web interface for Stable Diffusion.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
+- [Open-Sora](https://github.com/hpcaitech/Open-Sora) - Democratizing Efficient Video Production for All.
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - About Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
 
 ### Local Model Hosting
