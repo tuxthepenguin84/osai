@@ -97,6 +97,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 ### CLI
 
 - [aider](https://github.com/Aider-AI/aider) - Aider is AI pair programming in your terminal.
+- [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal.
 - [aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama.
 
