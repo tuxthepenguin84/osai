@@ -94,6 +94,7 @@ The goal of this project is to build a curated list of awesome open source AI pr
 - [Langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python.
+- [open-lovable](https://github.com/mendableai/open-lovable) - Clone and recreate any website as a modern React app in seconds.
 
 ### CLI
 
